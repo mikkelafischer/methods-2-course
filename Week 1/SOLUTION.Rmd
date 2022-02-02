@@ -1,0 +1,12 @@
+---
+title: "Solution"
+author: "Mikkel Albjerg Fischer"
+date: "2/2/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+SOLUTION
